@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/79156872/126893701-7831432a-e3bc-40c6-8d7d-dd69cf88e633.png" />
-	<br>
+	<br><br><br>
   <img src="https://user-images.githubusercontent.com/79156872/126893773-e947f590-e999-4bf0-a9a6-e5b8e2454af8.png" />
 <br>
     <h2 align="center">
@@ -99,7 +99,7 @@ This are the tech stack and tools utilized to develop this project:
     👨‍💻 Author:
     <div>
         <a href="https://github.com/sumitsingh159" margin="10px">
-            <img src="https://img.shields.io/badge/GitHub-SumitSingh-6f42c1?logo=github"/>
+            <img src="https://img.shields.io/badge/GitHub-Sumit Singh-6f42c1?logo=github"/>
         </a>
         <a alt="Sumit Singh" href="https://www.linkedin.com/in/sumit-singh-18988b1b3/">
             <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh-blue?logo=linkedin"/>
