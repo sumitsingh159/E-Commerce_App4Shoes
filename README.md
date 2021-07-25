@@ -4,8 +4,9 @@
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/79156872/126893701-7831432a-e3bc-40c6-8d7d-dd69cf88e633.png" />
+	<br>
   <img src="https://user-images.githubusercontent.com/79156872/126893773-e947f590-e999-4bf0-a9a6-e5b8e2454af8.png" />
-
+<br>
     <h2 align="center">
         A simple shoes store app made with react native.
     </h2>
