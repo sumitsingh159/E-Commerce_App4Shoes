@@ -35,10 +35,6 @@
 - [Author](#author).
 ---
 
-## About
-#### This project was developed to study and understand the React Native workflow, following this tutorial by [Sujeito programador](https://www.youtube.com/watch?v=RZbz26EVysA).
-
----
 
 ## Requirements
 
@@ -61,7 +57,7 @@ I already used and recommend these text editors:
 > ### Clone the repo.
 >>   ```bash
 >>  # Clone this repository
->>  $ git clone https://github.com/FelipePardim/ReactNative-Shoes
+>>  $ git clone https://github.com/sumitsingh159/E-Commerce_App4Shoes.git
 >>   ```
 > ### Follow the guides bellow to run each project as you like.
 
@@ -97,19 +93,13 @@ This are the tech stack and tools utilized to develop this project:
 
 ---
 
-<h2 id="license">
-    📝 License 
-</h2>
 
-This project is under [MIT](https://github.com/FelipePardim/ReactNative-Shoes/LICENSE.md) licensce.
-
----
 
 <h2 id="author">
     👨‍💻 Author:
     <div>
         <a href="https://github.com/sumitsingh159" margin="10px">
-            <img src="https://img.shields.io/badge/GitHub-FelipePardim-6f42c1?logo=github"/>
+            <img src="https://img.shields.io/badge/GitHub-SumitSingh-6f42c1?logo=github"/>
         </a>
         <a alt="Sumit Singh" href="https://www.linkedin.com/in/sumit-singh-18988b1b3/">
             <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh-blue?logo=linkedin"/>
