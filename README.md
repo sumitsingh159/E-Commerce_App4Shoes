@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/38081066/103036843-64bd7880-4549-11eb-9749-56c008acf440.png" />
+    <img src="https://user-images.githubusercontent.com/79156872/126893701-7831432a-e3bc-40c6-8d7d-dd69cf88e633.png" />
     <h2 align="center">
         A simple shoes store app made with react native.
     </h2>
