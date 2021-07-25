@@ -108,7 +108,7 @@ This project is under [MIT](https://github.com/FelipePardim/ReactNative-Shoes/LI
 <h2 id="author">
     👨‍💻 Author:
     <div>
-        <a href="https://github.com/FelipePardim" margin="10px">
+        <a href="https://github.com/sumitsingh159" margin="10px">
             <img src="https://img.shields.io/badge/GitHub-FelipePardim-6f42c1?logo=github"/>
         </a>
         <a alt="Felipe Pardim" href="https://www.linkedin.com/in/felipe-pardim">
