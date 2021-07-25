@@ -111,7 +111,7 @@ This project is under [MIT](https://github.com/FelipePardim/ReactNative-Shoes/LI
         <a href="https://github.com/sumitsingh159" margin="10px">
             <img src="https://img.shields.io/badge/GitHub-FelipePardim-6f42c1?logo=github"/>
         </a>
-        <a alt="Felipe Pardim" href="https://www.linkedin.com/in/felipe-pardim">
+        <a alt="Sumit Singh" href="https://www.linkedin.com/in/sumitsingh159">
             <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Pardim-blue?logo=linkedin"/>
         </a>
     </div>
