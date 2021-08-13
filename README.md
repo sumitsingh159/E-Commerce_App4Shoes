@@ -14,14 +14,7 @@
 </p>
 
 
-<p align="center">
-	<img src="https://img.shields.io/github/stars/FelipePardim/ReactNative-Shoes" />
-    <img src="https://img.shields.io/github/forks/FelipePardim/ReactNative-Shoes" />
-    <img src="https://img.shields.io/github/issues/FelipePardim/ReactNative-Shoes" />
-    <br>
-    <img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
-    <img src="https://img.shields.io/badge/Expo-000020?logo=expo" />
-</p>
+
 
 ---
  
